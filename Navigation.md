@@ -1,0 +1,5 @@
+  * [Home](http://code.google.com/p/tintwizard/wiki/Welcome)
+    * [Updates](http://code.google.com/p/tintwizard/wiki/Updates)
+    * [Screenshots](http://code.google.com/p/tintwizard/wiki/Screenshots)
+    * [Examples](http://code.google.com/p/tintwizard/wiki/Examples)
+    * [Help](http://code.google.com/p/tintwizard/wiki/Help)
